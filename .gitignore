@@ -5,3 +5,5 @@ API/
 __pycache__
 
 *.cfg
+
+*.env
